@@ -1,0 +1,16 @@
+h1 {
+    font-family: Courier, Impact, "Courier New";
+	color: blue;
+	background-color: yellow;
+    font-size: x-large;
+}
+div {
+    font-family: Verdana;
+	color: rgb(198, 253, 196);
+	background-color: #3ac7a3;
+}
+h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #e62f9d;
+    background-color: #f7ba6b
+}
