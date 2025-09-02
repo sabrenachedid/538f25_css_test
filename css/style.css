@@ -4,13 +4,19 @@ h1 {
 	background-color: yellow;
     font-size: x-large;
 }
-div {
+li {
+    border: solid 2px pink;
+    border-style: dotted;
+    border-width: 20 px 10 px 3 px 1 px;
     font-family: Verdana;
-	color: rgb(198, 253, 196);
-	background-color: #3ac7a3;
 }
 h2 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: #e62f9d;
-    background-color: #f7ba6b
+    background-color: #ffebd1;
+    border: 5 px rgb(104, 0, 0);
+}
+
+body{
+    background-color: rgb(229, 252, 252);
 }
